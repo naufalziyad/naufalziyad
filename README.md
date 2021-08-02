@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Naufal</h1>
 <h3 align="center">Software Engineer and love Infrastructure</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naufalziyad" alt="naufalziyad" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/naufalfian" target="blank"><img src="https://img.shields.io/twitter/follow/naufalfian?logo=twitter&style=for-the-badge" alt="naufalfian" /></a> </p>
 
-- 🔭 I’m currently working on [Amartha Fintech](amartha.com)
+- 🔭 I’m currently working on [Amartha Fintech](https://amartha.com)
 
 - 🌱 I’m currently learning **Kubernetes, OpenShift, Docker, NGINX and MicroServices**
 
