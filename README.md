@@ -7,9 +7,10 @@
 
 - 🌱 I’m currently learning **Kubernetes, OpenShift, Docker, NGINX and MicroServices**
 
-- 💬 Ask me about **Engineering Technical or Leadership**
+- 💬 Ask me about **Engineering Technical or Leadership** 
 
-- 📫 How to reach me **naufal.polinema@gmail.com**
+- 📫 How to reach me **naufal.polinema@gmail.com** or https://adplist.org/mentors/naufal-ziyad-luthfiansyah
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
