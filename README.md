@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/naufalfian" target="blank"><img src="https://img.shields.io/twitter/follow/naufalfian?logo=twitter&style=for-the-badge" alt="naufalfian" /></a> </p>
 
-- 🔭 I’m currently working on [Moladin](https://moladin.com)
+- 🔭 I’m currently working on [Waresix](https://waresix.com)
 
 - 🌱 I’m currently learning **Kubernetes, OpenShift, Docker, NGINX and MicroServices**
 
